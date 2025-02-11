@@ -32,10 +32,13 @@ div {
     height: 131px;
     display: block;
     margin: auto;
+    box-sizing: border-box;
+    padding-left: 1rem;
+    padding-right: 1rem;
 }
 
-h2 {
-    margin: 24px auto 16 auto;
+h1 {
+    margin: 1.5rem auto 1rem auto;
     font-family: "Outfit", sans-serif;
     color: hsl(218, 44%, 22%);
     font-size: 1.375rem;
