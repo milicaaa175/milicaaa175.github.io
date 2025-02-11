@@ -31,6 +31,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [https://github.com/milicaaa175/qr-code-project]
+- Live site URL: [https://milicaaa175.github.io/qr-code-project/]
 
 ## My process
 
